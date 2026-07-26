@@ -40,6 +40,7 @@ Amazon sales order dataset, including order details, courier status, fulfillment
 🎥 Screenshots / Demos
 
 Show that the dashboard looks like. - ![Alt text](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
+
 Example:![Dahboard Preview](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 
