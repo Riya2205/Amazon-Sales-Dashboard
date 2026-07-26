@@ -38,8 +38,9 @@ Amazon sales order dataset, including order details, courier status, fulfillment
 4. Improved visibility into fulfillment channel efficiency (Amazon vs. Merchant), supporting better partner performance decisions
 
 🎥 Screenshots / Demos
-Show that the dashboard looks like - ![Alt text](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
-Example : ![Dahboard Preview](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
+
+Show that the dashboard looks like. - ![Alt text](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
+Example:![Dahboard Preview](https://github.com/Riya2205/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard.png)
 
 
 Author: Riya Vijay Khambe GitHub: github.com/Riya2205
