@@ -1,6 +1,5 @@
 Amazon Sales Analysis Dashboard
 
-Amazon Sales Analytics
 
 An interactive Power BI dashboard built to analyze Amazon sales order data, providing a consolidated view of revenue performance, order fulfillment, and delivery patterns across India. The dashboard combines KPI cards, slicers, and multiple visualization types to surface sales trends and operational bottlenecks at a glance.
 
